@@ -4,7 +4,7 @@ Hi 👋 My name is Syed Behzad Hassan Naqvi
 Web Developer MERN Stack
 ------------------------
 
-My Name is Behzad, I am a self-taught Full Stack Developer my journey started in 2020 and I started learning web development. Since then I am creating my own projects and doing freelance projects. My aim is to get an internship and get into the industry as soon as possible and have a good job. I am very eager to learn new things and meet with new people as I just have started my Bachelor's Degree in Computer Science at the University of Management & Technology. I am looking forward to the opportunity that can boost my career. I have created a dozen of projects and plan to do more with new technologies but my main tech stack currently is MERN (MongoDB, ExpressJs, ReactJS, NodeJs) and I would like to learn NextJs in the future.
+My name is Behzad, and I am a self-taught Full Stack Developer. I began learning web development in 2020. Since then, I've been working on my own projects as well as freelance work. My goal is to get an internship and start working in the industry as soon as possible. I am very excited to learn new things and meet new people because I have just begun my Bachelor's Degree in Computer Science at the University of Management & Technology. I am excited about the opportunity to advance my career. I've created a dozen projects and intend to create more with new technologies, but my current tech stack is MERN (MongoDB, ExpressJs, ReactJS, NodeJS) and I would like to learn NextJs in the future.
 
 * 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [My Portfolio](http://behzad.netlify.app)
