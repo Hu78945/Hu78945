@@ -1,47 +1,53 @@
-Hi 👋 My name is Syed Behzad Hassan Naqvi
-=========================================
+<h1 align="center">Hi, I'm Behzad 👋</h1>
+<h3 align="center">Backend & Data Engineer · Stablecoin infrastructure · ETL at scale</h3>
 
-Web Developer MERN Stack
-------------------------
-
-My name is Behzad, and I am a self-taught Full Stack Developer. I began learning web development in 2020. Since then, I've been working on my own projects as well as freelance work. My goal is to get an internship and start working in the industry as soon as possible. I am very excited to learn new things and meet new people because I have just begun my Bachelor's Degree in Computer Science at the University of Management & Technology. I am excited about the opportunity to advance my career. I've created a dozen projects and intend to create more with new technologies, but my current tech stack is MERN (MongoDB, ExpressJs, ReactJS, NodeJS) and I would like to learn NextJs in the future.
-
-* 🌍  I'm based in Pakistan
-* 🖥️  See my portfolio at [My Portfolio](http://behzad.netlify.app)
-* ✉️  You can contact me at [behzad789@outlook.com](mailto:behzad789@outlook.com)
-* 🧠  I'm learning Redux
-* 🤝  I'm open to collaborating on Mern Stack Projects
-* ⚡  I am a very quick learner
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/syedbehzadhassannaqvi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:behzad789@outlook.com"><img src="https://img.shields.io/badge/Email-behzad789%40outlook.com-0891b2?style=for-the-badge" alt="Email" /></a>
+  <!-- Add your portfolio once it is live:
+  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-1c1917?style=for-the-badge" alt="Portfolio" /></a> -->
 </p>
 
+---
 
-### Socials
+## About me
 
-<p align="left"> <a href="https://www.github.com/Hu78945" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/syed-behzad-hassan-naqvi-500555223/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17490086/syed-behzad-hassan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kiazind" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+I build backend and data systems that stay correct under pressure.
 
-### Badges
+- 🏢 Software Engineer at **Devsinc**, shipping multi-chain stablecoin infrastructure for [Brale](https://brale.com) and owning a 170+ pipeline ETL suite on Azure Data Factory and Snowflake (cut cloud spend by ~74%)
+- 🎟️ Built [**Outs.social**](https://outs.social), a ticket booking platform for events in the UAE, as a solo engineer, designed to never oversell under concurrent demand
+- 🦀 Exploring systems programming in Rust through open-source contributions
+- 📍 Based in Lahore, Pakistan · open to remote backend and data engineering roles
+- ✉️ Best way to reach me: [behzad789@outlook.com](mailto:behzad789@outlook.com)
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/Hu78945"><img src="https://github-readme-stats.vercel.app/api?username=Hu78945&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Hu78945's GitHub stats" /></a>
+## Featured work
 
-<b>Top Repositories</b>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**Outs.social**](https://outs.social) | Event ticket booking platform for the UAE. Concurrency-safe bookings (no overbooking), caching, and a load-balanced backend. | NestJS, PostgreSQL, Redis, Docker, Next.js |
+| [**Brale**](https://brale.com) *(work at Devsinc)* | Stablecoin issuance platform. Added support for 5 new blockchain networks and fixed a per-wallet transaction concurrency bug with job serialization (pg-boss patch, then Temporal). | NestJS, Temporal, pg-boss, PostgreSQL |
+| **Enterprise data platform** *(work at Devsinc)* | 170+ pipeline ETL suite, master-data system, and QuickBooks–NetSuite integration for a multi-brand client. | Azure Data Factory, Snowflake, Azure Functions, Python, SQL |
+| [**Edvenity**](https://edvenity.com) | AI hiring platform that screens resumes and runs voice-based mock interviews (final year project). | FastAPI, PostgreSQL, Next.js |
 
-<div width="100%" align="center"><a href="https://github.com/Hu78945/Social-media-Api" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hu78945&repo=Social-media-Api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
+
+## Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,rust&perline=10" alt="Languages" /><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,flask,nextjs,react&perline=10" alt="Frameworks" /><br />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,azure,aws,git,vercel&perline=10" alt="Data and infrastructure" />
+</p>
+
+**Also:** Snowflake · Azure Data Factory · Azure Functions · Temporal · pg-boss · Boomi · Power BI · REST & SOAP APIs
+
+---
+
+## GitHub stats
+
+<p align="left">
+  <a href="https://github.com/Hu78945"><img src="https://github-readme-stats.vercel.app/api?username=Hu78945&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Hu78945's GitHub stats" /></a>
+  <a href="https://github.com/Hu78945"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hu78945&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" alt="Top languages" /></a>
+</p>
